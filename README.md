@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/21958693/README.md)
 IoT Home Weather Station
 This project is a prototype of a home weather station that uses an Internet of Things (IoT) approach to collect and display real-time environmental data. A Raspberry Pi with a Sense HAT acts as the sensor device, publishing temperature, humidity, and pressure data. A separate computer or device acts as a gateway, subscribing to and displaying this data.
 
